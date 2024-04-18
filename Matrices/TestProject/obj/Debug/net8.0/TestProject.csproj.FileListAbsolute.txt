@@ -1,0 +1,14 @@
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Practicas01\Desktop\C#\Matrices\TestProject\obj\Debug\net8.0\ref\TestProject.dll
